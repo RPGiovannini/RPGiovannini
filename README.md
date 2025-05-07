@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rafael%20Giovannini&fontSize=70&color=gradient&customColorList=0,2,2,2,2,3">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rafael%20Giovannini&fontSize=70&color=gradient&customColorList=0,2,2,2,2,3">
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rafael%20Giovannini&fontSize=70&color=gradient&customColorList=0,2,2,2,2,3">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rafael%20Giovannini&fontColor=000000&fontSize=70&color=gradient&customColorList=0,2,2,2,2,3">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rafael%20Giovannini&fontColor=000000&fontSize=70&color=gradient&customColorList=0,2,2,2,2,3">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rafael%20Giovannini&fontColor=000000&fontSize=70&color=gradient&customColorList=0,2,2,2,2,3">
   </picture>
 </div>
 
@@ -34,7 +34,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW14eTI1eWYyMnZic3JmdHFpYjFzenVsdHB2NDYwZnVlaXVldGVjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="100%">
     </td>
   </tr>
 </table>
